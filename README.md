@@ -1,3 +1,5 @@
+> **Read-only Rust archive.** This repository preserves the original Rust/Tauri + React implementation and its Git history through `f051c0cb286b9af984f0d392eaeee51a99e1fd5c`. Active Swift/AppKit development continues at [vdpw/ClipEcho](https://github.com/vdpw/ClipEcho). See [ARCHIVE.md](ARCHIVE.md).
+
 <p align="center">
   <img src="src-tauri/icons/128x128.png" width="96" height="96" alt="ClipEcho app icon">
 </p>
